@@ -3,8 +3,13 @@ PowerPoint-Compressor
 
 PowerPoint Presentation Media Compression Tool for Mac OS X
 
+- Downloading
 - About
 - License
+
+# Downloading
+
+Wondering where to start? You probably want to download the zipped complete installer package, `https://github.com/aidancornelius/PowerPoint-Compressor/blob/master/Installer/PPTXKey.mpkg.zip` and install from there.
 
 # About
 
